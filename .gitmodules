@@ -1,0 +1,3 @@
+[submodule "submodule-featurex"]
+	path = submodule-featurex
+	url = https://github.com/okkes/submodule-featurex.git
